@@ -22,10 +22,10 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Pengenalan</h2>
             <p className="mb-4">
-              Kami, Kabupaten Gresik, melalui Aplikasi JDIH (Jaringan Dokumentasi dan Informasi Hukum) berkomitmen untuk melindungi privasi pengguna. Kebijakan Privasi ini menjelaskan bagaimana aplikasi kami mengumpulkan, menggunakan, dan melindungi informasi yang Anda berikan.
+              Kami, DPRD Kabupaten Gresik, melalui Aplikasi JDIH (Jaringan Dokumentasi dan Informasi Hukum) berkomitmen untuk melindungi privasi pengguna. Kebijakan Privasi ini menjelaskan bagaimana aplikasi kami mengumpulkan, menggunakan, dan melindungi informasi yang Anda berikan.
             </p>
             <p>
-              Aplikasi ini dirancang sebagai platform informasi publik tentang peraturan perundang-undangan dan dokumentasi hukum Kabupaten Gresik tanpa memerlukan proses pendaftaran atau login.
+              Aplikasi ini dirancang sebagai platform informasi publik tentang peraturan perundang-undangan, keputusan DPRD, dan dokumentasi hukum DPRD Kabupaten Gresik tanpa memerlukan proses pendaftaran atau login.
             </p>
           </section>
 
@@ -142,12 +142,12 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">7. Konten dan Informasi Publik</h2>
             <p className="mb-4">
-              Semua konten yang ditampilkan dalam aplikasi JDIH (peraturan, dokumentasi hukum, keputusan, dll) adalah informasi publik yang tersedia untuk umum sesuai dengan:
+              Semua konten yang ditampilkan dalam aplikasi JDIH (peraturan DPRD, dokumentasi hukum, keputusan DPRD, dll) adalah informasi publik yang tersedia untuk umum sesuai dengan:
             </p>
             <ul className="list-disc list-inside space-y-2 ml-2">
               <li>Undang-Undang Nomor 30 Tahun 2000 tentang Rahasia Dagang</li>
               <li>Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik</li>
-              <li>Peraturan Pemerintah Kabupaten Gresik</li>
+              <li>Peraturan Perundang-Undangan DPRD Kabupaten Gresik</li>
             </ul>
             <p className="mt-4">
               Konten ini bebas diakses dan dapat digunakan sesuai dengan ketentuan hukum yang berlaku. Namun, Anda tetap bertanggung jawab atas penggunaan informasi tersebut sesuai dengan hukum yang ada.
@@ -174,14 +174,14 @@ export default function PrivacyPolicy() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">10. Hubungi Kami</h2>
             <p className="mb-4">
-              Jika Anda memiliki pertanyaan, kekhawatiran, atau ingin mengajukan permintaan terkait kebijakan privasi ini, silakan hubungi kami:
+              Jika Anda memiliki pertanyaan, kekhawatiran, atau ingin mengajukan permintaan terkait kebijakan privasi ini, silakan hubungi DPRD Kabupaten Gresik:
             </p>
             <div className="bg-gray-50 rounded-lg p-6 mt-4 border-l-4 border-blue-600">
-              <p className="mb-3 font-semibold text-gray-900">Dinas Komunikasi dan Informatika Kabupaten Gresik</p>
-              <p className="mb-2"><span className="font-semibold">Alamat:</span> Jl. Soekarno-Hatta No. 1, Gresik</p>
-              <p className="mb-2"><span className="font-semibold">Email:</span> info@gresikkab.go.id</p>
-              <p className="mb-2"><span className="font-semibold">Telepon:</span> (031) 3980800</p>
-              <p><span className="font-semibold">Website:</span> www.gresikkab.go.id</p>
+              <p className="mb-3 font-semibold text-gray-900">DPRD Kabupaten Gresik</p>
+              <p className="mb-2"><span className="font-semibold">Alamat:</span> Kantor DPRD Kabupaten Gresik, Jl. Diponegoro No. 1, Gresik</p>
+              <p className="mb-2"><span className="font-semibold">Email:</span> info@dprd-gresik.go.id</p>
+              <p className="mb-2"><span className="font-semibold">Telepon:</span> (031) XXXX-XXXX</p>
+              <p><span className="font-semibold">Website:</span> www.dprd-gresik.go.id</p>
             </div>
           </section>
 
@@ -207,7 +207,7 @@ export default function PrivacyPolicy() {
 
       {/* Footer */}
       <div className="text-center mt-8 text-gray-600 text-sm">
-        <p>© 2025 Pemerintah Kabupaten Gresik. Semua hak dilindungi.</p>
+        <p>© 2025 DPRD Kabupaten Gresik. Semua hak dilindungi.</p>
       </div>
     </div>
   );

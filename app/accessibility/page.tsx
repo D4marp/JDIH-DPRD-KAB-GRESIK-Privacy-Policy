@@ -22,10 +22,10 @@ export default function Accessibility() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Komitmen Kami terhadap Aksesibilitas</h2>
             <p className="mb-4">
-              Pemerintah Kabupaten Gresik berkomitmen untuk membuat aplikasi JDIH dapat diakses oleh semua orang, termasuk mereka dengan disabilitas. Kami mengikuti standar aksesibilitas web internasional dan terus meningkatkan pengalaman pengguna.
+              DPRD Kabupaten Gresik berkomitmen untuk membuat aplikasi JDIH dapat diakses oleh semua orang, termasuk mereka dengan disabilitas. Kami mengikuti standar aksesibilitas web internasional dan terus meningkatkan pengalaman pengguna.
             </p>
             <p>
-              Aplikasi ini dirancang dengan prinsip "Universal Design" untuk memastikan semua pengguna dapat mengakses informasi hukum dengan mudah, tanpa memandang kemampuan atau keterbatasan mereka.
+              Aplikasi ini dirancang dengan prinsip "Universal Design" untuk memastikan semua pengguna dapat mengakses informasi hukum DPRD dengan mudah, tanpa memandang kemampuan atau keterbatasan mereka.
             </p>
           </section>
 
@@ -207,13 +207,13 @@ export default function Accessibility() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Pertanyaan Aksesibilitas Lebih Lanjut</h2>
             <p className="mb-4">
-              Untuk pertanyaan atau informasi lebih lanjut tentang aksesibilitas:
+              Untuk pertanyaan atau informasi lebih lanjut tentang aksesibilitas aplikasi JDIH DPRD:
             </p>
             <div className="bg-gray-50 rounded-lg p-6 mt-4 border-l-4 border-blue-600">
-              <p className="mb-3 font-semibold text-gray-900">Dinas Komunikasi dan Informatika Kabupaten Gresik</p>
-              <p className="mb-2"><span className="font-semibold">Email:</span> info@gresikkab.go.id</p>
-              <p className="mb-2"><span className="font-semibold">Telepon:</span> (031) 3980800</p>
-              <p><span className="font-semibold">Website:</span> www.gresikkab.go.id</p>
+              <p className="mb-3 font-semibold text-gray-900">DPRD Kabupaten Gresik</p>
+              <p className="mb-2"><span className="font-semibold">Email:</span> info@dprd-gresik.go.id</p>
+              <p className="mb-2"><span className="font-semibold">Telepon:</span> (031) XXXX-XXXX</p>
+              <p><span className="font-semibold">Website:</span> www.dprd-gresik.go.id</p>
             </div>
           </section>
 
@@ -227,7 +227,7 @@ export default function Accessibility() {
 
       {/* Footer */}
       <div className="text-center mt-8 text-gray-600 text-sm">
-        <p>© 2025 Pemerintah Kabupaten Gresik. Semua hak dilindungi.</p>
+        <p>© 2025 DPRD Kabupaten Gresik. Semua hak dilindungi.</p>
       </div>
     </div>
   );

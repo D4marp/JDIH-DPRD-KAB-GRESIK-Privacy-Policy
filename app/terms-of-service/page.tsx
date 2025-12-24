@@ -22,7 +22,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Pengenalan</h2>
             <p>
-              Selamat datang di aplikasi JDIH (Jaringan Dokumentasi dan Informasi Hukum) Kabupaten Gresik. Dengan mengunduh, mengakses, dan menggunakan aplikasi ini, Anda menyetujui untuk terikat oleh syarat dan ketentuan yang ditetapkan dalam dokumen ini. Jika Anda tidak setuju dengan ketentuan ini, mohon jangan menggunakan aplikasi kami.
+              Selamat datang di aplikasi JDIH (Jaringan Dokumentasi dan Informasi Hukum) DPRD Kabupaten Gresik. Dengan mengunduh, mengakses, dan menggunakan aplikasi ini, Anda menyetujui untuk terikat oleh syarat dan ketentuan yang ditetapkan dalam dokumen ini. Jika Anda tidak setuju dengan ketentuan ini, mohon jangan menggunakan aplikasi kami.
             </p>
           </section>
 
@@ -32,7 +32,7 @@ export default function TermsOfService() {
             <div className="space-y-3">
               <div>
                 <h3 className="font-semibold text-gray-800">Aplikasi JDIH:</h3>
-                <p className="text-gray-700">Platform digital yang menyediakan informasi tentang peraturan perundang-undangan dan dokumentasi hukum Kabupaten Gresik.</p>
+                <p className="text-gray-700">Platform digital yang menyediakan informasi tentang peraturan perundang-undangan, keputusan DPRD, dan dokumentasi hukum DPRD Kabupaten Gresik.</p>
               </div>
               <div>
                 <h3 className="font-semibold text-gray-800">Pengguna:</h3>
@@ -49,7 +49,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">2. Lisensi Penggunaan</h2>
             <p className="mb-4">
-              Pemerintah Kabupaten Gresik memberikan lisensi terbatas, non-eksklusif, dan tidak dapat dialihkan kepada Anda untuk menggunakan aplikasi JDIH untuk keperluan pribadi dan non-komersial.
+              DPRD Kabupaten Gresik memberikan lisensi terbatas, non-eksklusif, dan tidak dapat dialihkan kepada Anda untuk menggunakan aplikasi JDIH untuk keperluan pribadi dan non-komersial.
             </p>
             <p>
               Anda diizinkan untuk:
@@ -82,7 +82,7 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">4. Konten dan Informasi Publik</h2>
             <p className="mb-4">
-              Semua konten dalam aplikasi JDIH adalah informasi publik yang disediakan oleh Pemerintah Kabupaten Gresik. Konten ini tersedia untuk umum sesuai dengan Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik.
+              Semua konten dalam aplikasi JDIH adalah informasi publik yang disediakan oleh DPRD Kabupaten Gresik. Konten ini tersedia untuk umum sesuai dengan Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik.
             </p>
             <p className="mb-4">
               Dengan mengakses konten ini, Anda memahami dan menerima bahwa:
@@ -230,14 +230,14 @@ export default function TermsOfService() {
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4">14. Hubungi Kami</h2>
             <p className="mb-4">
-              Jika Anda memiliki pertanyaan atau kekhawatiran mengenai syarat dan ketentuan ini, silakan hubungi:
+              Jika Anda memiliki pertanyaan atau kekhawatiran mengenai syarat dan ketentuan ini, silakan hubungi DPRD Kabupaten Gresik:
             </p>
             <div className="bg-gray-50 rounded-lg p-6 mt-4 border-l-4 border-blue-600">
-              <p className="mb-3 font-semibold text-gray-900">Dinas Komunikasi dan Informatika Kabupaten Gresik</p>
-              <p className="mb-2"><span className="font-semibold">Alamat:</span> Jl. Soekarno-Hatta No. 1, Gresik</p>
-              <p className="mb-2"><span className="font-semibold">Email:</span> info@gresikkab.go.id</p>
-              <p className="mb-2"><span className="font-semibold">Telepon:</span> (031) 3980800</p>
-              <p><span className="font-semibold">Website:</span> www.gresikkab.go.id</p>
+              <p className="mb-3 font-semibold text-gray-900">DPRD Kabupaten Gresik</p>
+              <p className="mb-2"><span className="font-semibold">Alamat:</span> Kantor DPRD Kabupaten Gresik, Jl. Diponegoro No. 1, Gresik</p>
+              <p className="mb-2"><span className="font-semibold">Email:</span> info@dprd-gresik.go.id</p>
+              <p className="mb-2"><span className="font-semibold">Telepon:</span> (031) XXXX-XXXX</p>
+              <p><span className="font-semibold">Website:</span> www.dprd-gresik.go.id</p>
             </div>
           </section>
 
@@ -263,7 +263,7 @@ export default function TermsOfService() {
 
       {/* Footer */}
       <div className="text-center mt-8 text-gray-600 text-sm">
-        <p>© 2025 Pemerintah Kabupaten Gresik. Semua hak dilindungi.</p>
+        <p>© 2025 DPRD Kabupaten Gresik. Semua hak dilindungi.</p>
       </div>
     </div>
   );

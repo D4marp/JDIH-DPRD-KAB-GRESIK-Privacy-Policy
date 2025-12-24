@@ -13,7 +13,7 @@ export default function FAQ() {
       questions: [
         {
           q: "Apa itu JDIH Kab. Gresik?",
-          a: "JDIH (Jaringan Dokumentasi dan Informasi Hukum) Kab. Gresik adalah aplikasi resmi dari Pemerintah Kabupaten Gresik yang menyediakan akses mudah ke peraturan perundang-undangan, keputusan, dan dokumentasi hukum Kabupaten Gresik."
+          a: "JDIH (Jaringan Dokumentasi dan Informasi Hukum) Kab. Gresik adalah aplikasi resmi dari DPRD Kabupaten Gresik yang menyediakan akses mudah ke peraturan perundang-undangan, keputusan DPRD, dan dokumentasi hukum DPRD Kabupaten Gresik."
         },
         {
           q: "Apakah aplikasi ini gratis?",
@@ -67,7 +67,7 @@ export default function FAQ() {
         },
         {
           q: "Bagaimana jika saya menemukan dokumen yang salah atau ketinggalan?",
-          a: "Hubungi Dinas Komunikasi dan Informatika Kabupaten Gresik melalui email info@gresikkab.go.id atau telepon (031) 3980800. Kami akan segera meninjau dan memperbarui konten."
+          a: "Hubungi DPRD Kabupaten Gresik melalui email info@dprd-gresik.go.id atau telepon (031) XXXX-XXXX. Kami akan segera meninjau dan memperbarui konten."
         }
       ]
     },
