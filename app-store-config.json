@@ -1,0 +1,92 @@
+{
+  "appName": "JDIH DPRD Kab. Gresik",
+  "appDescription": "Aplikasi Jaringan Dokumentasi dan Informasi Hukum DPRD Kabupaten Gresik - Platform informasi publik yang menyediakan akses mudah ke peraturan, keputusan, dan dokumentasi hukum DPRD Kabupaten Gresik. Tanpa login, gratis, dan terpercaya.",
+  "publisher": "DPRD Kabupaten Gresik",
+  "category": "Books & Reference",
+  "targetAudience": [
+    "Anggota DPRD",
+    "Masyarakat Umum",
+    "Pelajar",
+    "Mahasiswa",
+    "Profesional Hukum"
+  ],
+  "features": [
+    "Akses Gratis ke Peraturan DPRD",
+    "Tanpa Login atau Registrasi",
+    "Informasi Lengkap dan Terkini",
+    "Pencarian Cepat dan Mudah",
+    "Mode Offline",
+    "Aman dan Terpercaya",
+    "Update Berkala",
+    "Sumber Resmi DPRD"
+  ],
+  "content": {
+    "hasLogin": false,
+    "hasRegistration": false,
+    "hasPayment": false,
+    "hasAds": false,
+    "isPublicInformation": true,
+    "dataCollection": "minimal_analytics_only"
+  },
+  "privacy": {
+    "privacyPolicyUrl": "/privacy-policy",
+    "termsOfServiceUrl": "/terms-of-service",
+    "noPersonalDataCollection": true,
+    "noLoginRequired": true,
+    "dataEncryption": true
+  },
+  "contact": {
+    "organization": "DPRD Kabupaten Gresik",
+    "email": "info@dprd-gresik.go.id",
+    "phone": "(031) XXXX-XXXX",
+    "website": "www.dprd-gresik.go.id",
+    "address": "Jl. Soekarno-Hatta, Gresik"
+  },
+  "platforms": {
+    "android": {
+      "minSdkVersion": 26,
+      "targetSdkVersion": 34,
+      "requiredPermissions": [
+        "INTERNET"
+      ]
+    },
+    "ios": {
+      "minimumOSVersion": "12.0",
+      "requiredCapabilities": []
+    }
+  },
+  "screenshots": {
+    "description": [
+      "Beranda aplikasi dengan akses cepat ke berbagai kategori peraturan DPRD",
+      "Halaman pencarian untuk menemukan peraturan DPRD dengan mudah",
+      "Detail dokumen hukum DPRD dengan informasi lengkap",
+      "Mode offline untuk akses dokumen DPRD tanpa internet",
+      "Daftar favorit untuk menyimpan dokumen DPRD penting"
+    ]
+  },
+  "keywords": [
+    "JDIH DPRD",
+    "Gresik",
+    "DPRD",
+    "Hukum",
+    "Peraturan",
+    "Informasi Publik",
+    "Dokumentasi",
+    "Kabupaten Gresik",
+    "Keputusan DPRD",
+    "Peraturan DPRD",
+    "Legislatif"
+  ],
+  "version": "1.0.0",
+  "releaseDate": "2025-12-24",
+  "changelog": {
+    "1.0.0": [
+      "Rilis pertama aplikasi JDIH DPRD Kab. Gresik",
+      "Fitur pencarian dokumen hukum DPRD",
+      "Mode offline untuk dokumen favorit",
+      "Antarmuka user-friendly",
+      "Keamanan data yang terjamin",
+      "Akses gratis tanpa login"
+    ]
+  }
+}
