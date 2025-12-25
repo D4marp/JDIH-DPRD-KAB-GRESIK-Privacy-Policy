@@ -29,8 +29,8 @@
     "dataCollection": "minimal_analytics_only"
   },
   "privacy": {
-    "privacyPolicyUrl": "/privacy-policy",
-    "termsOfServiceUrl": "/terms-of-service",
+    "privacyPolicyUrl": "https://jdih-gresik.go.id/privacy-policy",
+    "termsOfServiceUrl": "https://jdih-gresik.go.id/terms-of-service",
     "noPersonalDataCollection": true,
     "noLoginRequired": true,
     "dataEncryption": true

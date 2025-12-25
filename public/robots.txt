@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jdih-gresik.example.com/sitemap.xml
+Sitemap: https://jdih-gresik.go.id/sitemap.xml
